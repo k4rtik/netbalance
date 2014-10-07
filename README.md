@@ -12,6 +12,12 @@ Assuming you have a go environment setup as described at [How to Write Go Code][
 1. Move the config file `.netbalance.gcfg` to your home directory and add your login credentials.
 1. `$ netbalance`
 
+## Sample Output
+```
+$ netbalance 
+MBs: 45351.0, Days: 26.0
+```
+
 ## Other providers
 - For DSL providers like Airtel, ACT, see [Netlimit][netlimit].
 - For other cable providers needing web based authentication, it should be easy to modify `netbalance`, please feel free to do so.
