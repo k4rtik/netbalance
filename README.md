@@ -2,6 +2,8 @@
 
 Simple CLI client written in Go to check internet balance for You Broadband.
 
+Works on Mac OS X, Linux and Windows.
+
 ## Usage
 Assuming you have a go environment setup as described at [How to Write Go Code][code]:
 
