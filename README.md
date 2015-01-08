@@ -1,7 +1,8 @@
+
 # netbalance
+<a href='http://www.babygopher.org'><img align="right" src='https://raw.github.com/drnic/babygopher-site/gh-pages/images/babygopher-badge.png' ></a>
 
 Simple CLI client written in Go to check internet balance for You Broadband.
-<a href='http://www.babygopher.org'><img align="right" src='https://raw.github.com/drnic/babygopher-site/gh-pages/images/babygopher-badge.png' ></a>
 
 Works on Mac OS X, Linux and Windows.
 
