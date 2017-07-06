@@ -1,7 +1,7 @@
 package main
 
 import (
-	"code.google.com/p/gcfg"
+	"gopkg.in/gcfg.v1"
 	"fmt"
 	"github.com/kennygrant/sanitize"
 	"github.com/mitchellh/go-homedir"
